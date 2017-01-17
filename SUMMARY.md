@@ -34,6 +34,6 @@
 25. [参考链接](docs/reference.md)
 
 ## 其他
-- [源码](http://github.com/ruanyf/es6tutorial/.md)
-- [修订历史](https://github.com/ruanyf/es6tutorial/commits/gh-pages.md)
-- [反馈意见](https://github.com/ruanyf/es6tutorial/issues.md)
+- [源码](http://github.com/ruanyf/es6tutorial/)
+- [修订历史](https://github.com/ruanyf/es6tutorial/commits/gh-pages)
+- [反馈意见](https://github.com/ruanyf/es6tutorial/issues)
